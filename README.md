@@ -7,3 +7,6 @@
 - Fill in config.ini
 - ???
 - Profit.
+
+# Note
+I KNOW THE CODE IS RUBBISH, PLZ NO KILL ME, JUST MAKE REQUESTS AND I'LL LOOK INTO IT :'(
